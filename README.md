@@ -127,7 +127,7 @@ supply-chain-delivery-risk/
 
 ## 👤 Author
 
-Developed as part of **Thapar Institute of Engineering & Technology coursework (2024–25)**.
+Developed as part of **Thapar Institute of Engineering & Technology coursework (2025–26)**.
 
 | Member | Roll No. |
 |---|---|
