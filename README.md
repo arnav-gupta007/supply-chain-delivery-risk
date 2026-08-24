@@ -131,6 +131,8 @@ Developed as part of **Thapar Institute of Engineering & Technology coursework (
 
 | Member | Roll No. |
 |---|---|
-| Arnav Gupta | 1024030780 |
+| Arnav Gupta| 1024030780 |
 | Divyam Mittal | 1024030008 |
 | Paarth Mendiratta | 1024030030 |
+
+
